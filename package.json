@@ -1,0 +1,20 @@
+{
+  "name": "poc-node-file-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbuget/poc-node-file-api.git"
+  },
+  "author": "Jérémy Buget",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jbuget/poc-node-file-api/issues"
+  },
+  "homepage": "https://github.com/jbuget/poc-node-file-api#readme",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
